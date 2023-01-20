@@ -1,5 +1,12 @@
-### Hi there 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/AshwinKurup/AshwinKurup/blob/master/936.jpg" style="max-width: 100%;" alt="Hi There👋" />
+  <br />
+  <br />
+  <br />
+  <br />
 
+</div>
 <!--
 **AshwinKurup/AshwinKurup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
