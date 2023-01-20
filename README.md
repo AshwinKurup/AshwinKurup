@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/AshwinKurup/AshwinKurup/blob/master/936.jpg" style=width=100%  height="300" alt="Hi There👋" />
+  <img src="https://github.com/AshwinKurup/AshwinKurup/blob/master/936.jpg" style=width="1000"  height="300" alt="Hi There👋" />
   <br />
   <div>Just kidding, it is Backend Developement</div>
   <br />
