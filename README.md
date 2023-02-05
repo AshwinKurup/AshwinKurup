@@ -1,14 +1,17 @@
-### Hi there 👋
+### Hi, my name is Ashwin 👋
 
-<!--
-**AshwinKurup/AshwinKurup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fields of interest**: Distributed Systems, HFT Systems 
+
+### Skills 🛠️
+- **Languages**: &nbsp;                          Python, SQL, Java, C++
+- **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn, Pandas
+- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git
+
+### Work experience 👔
+| Job Position                 | Company            | Field                        | Work Period                |
+| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
+| Quantitative/Backend Dev     | Perry Technologies | Tooling for HFT Strategies   | 07/01/2022 — 05/08/2022    |
+
+### Education 🎓
+- [Bachelor's degree] @ Nanyang Technological University (2019 - 2023)
+
