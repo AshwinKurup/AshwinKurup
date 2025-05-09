@@ -1,17 +1,24 @@
-### Hi, my name is Ashwin 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashwinkurup/)
 
-**Fields of interest**: Distributed Systems, HFT Systems 
+```rust
+fn main() {
+    println!("Hi, I'm Ashwin");
+}
+```
 
-### Skills 🛠️
-- **Languages**: &nbsp;                          Python, SQL, Java, C++
-- **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn, Pandas
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git
+## About Me
 
-### Work experience 👔
-| Job Position                 | Company            | Field                        | Work Period                |
-| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| Quantitative/Backend Dev     | Perry Technologies | Tooling for HFT Strategies   | 07/01/2022 — 05/08/2022    |
+Currently working at Perry Technologies: Software Engineer.
 
-### Education 🎓
-- [Bachelor's degree] @ Nanyang Technological University (2019 - 2023)
+### I like:
+- Making code fast
+- Context-rich errors and logs
+- Building trading systems
+- Rust, Python and C++
+- Neovim (gotta shave that .5s millis off a document scroll)
 
+## Let's Connect
+
+Feel free to reach out for a discussion on error chaining crates or deadlock detection in tokio. 
+
+---
